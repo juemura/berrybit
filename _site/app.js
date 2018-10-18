@@ -11,7 +11,7 @@
  *
  */
 
-// import { Security, ImplicitCallback } from '@okta/okta-react';
+import { Security, ImplicitCallback } from '@okta/okta-react';
 
 const config = {
   issuer: 'https://dev-964153.oktapreview.com/oauth2/default',
